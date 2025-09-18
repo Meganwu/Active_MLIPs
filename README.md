@@ -20,8 +20,8 @@
 
 # Step4 Evaluate these configurations
 ## Similarity
-### RMSD or fingerprint
-### QBC
+  ### RMSD or fingerprint
+  ### QBC
 
 
 # Step5 Construct new training dataset from step4
