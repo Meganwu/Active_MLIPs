@@ -14,7 +14,7 @@
 
 
 # Step3  Generate more configurations based on MLIPs
-## a. BOSS
+## a. BOSS  (random from all degrees of freedom, more on molecules close to surfaces, more on surfaces)
 ## b. MACE optimization
 ## C. MACE molecular dynamics
 ## d. randomly creat distorsions by changing bonds or angles from some inital configurations
