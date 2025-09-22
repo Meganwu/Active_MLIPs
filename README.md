@@ -26,6 +26,9 @@
   ### Similarity like SSIM and Cosine based on fingerprints (mace model node feature n: 640)
   ### QBC
 
+### choose 50. all  in top 150 of three methods
+### Randomly distort these 50 configs by distortions on rattle, bond, and angle.
+
 
 # Step5 Construct new training dataset from step4
 
